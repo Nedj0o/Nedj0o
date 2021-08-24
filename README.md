@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nedj0o
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently working as a Software Developer.
 - 📫 How to reach me nedjo.eve@gmail.com
 
 <!---
